@@ -1,0 +1,8 @@
+Z:\Tesco\K2\K2UnitTest\bin\Debug\K2UnitTest.dll
+Z:\Tesco\K2\K2UnitTest\bin\Debug\K2UnitTest.pdb
+Z:\Tesco\K2\K2UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\Tesco\K2\K2UnitTest\obj\Debug\K2UnitTest.csprojResolveAssemblyReference.cache
+Z:\Tesco\K2\K2UnitTest\obj\Debug\K2UnitTest.dll
+Z:\Tesco\K2\K2UnitTest\obj\Debug\K2UnitTest.pdb
+Z:\Tesco\K2\K2UnitTest\bin\Debug\K2Server.exe
+Z:\Tesco\K2\K2UnitTest\bin\Debug\K2Server.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K2Server", "K2Server\K2Server.csproj", "{88E545F9-601A-461B-A5B0-C5695B5676CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K2UnitTest", "K2UnitTest\K2UnitTest.csproj", "{8CAF6FC1-B05C-47CC-967E-617A5EF3B317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K2ClientApp", "K2ClientApp\K2ClientApp.csproj", "{1AABCBE1-D9F2-48B8-B525-937E72DCA76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E545F9-601A-461B-A5B0-C5695B5676CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E545F9-601A-461B-A5B0-C5695B5676CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E545F9-601A-461B-A5B0-C5695B5676CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E545F9-601A-461B-A5B0-C5695B5676CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAF6FC1-B05C-47CC-967E-617A5EF3B317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAF6FC1-B05C-47CC-967E-617A5EF3B317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAF6FC1-B05C-47CC-967E-617A5EF3B317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAF6FC1-B05C-47CC-967E-617A5EF3B317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AABCBE1-D9F2-48B8-B525-937E72DCA76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AABCBE1-D9F2-48B8-B525-937E72DCA76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AABCBE1-D9F2-48B8-B525-937E72DCA76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AABCBE1-D9F2-48B8-B525-937E72DCA76F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

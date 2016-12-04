@@ -1,0 +1,6 @@
+Z:\Tesco\K2\K2Server\bin\Debug\K2Server.exe.config
+Z:\Tesco\K2\K2Server\bin\Debug\K2Server.exe
+Z:\Tesco\K2\K2Server\bin\Debug\K2Server.pdb
+Z:\Tesco\K2\K2Server\obj\Debug\K2Server.exe
+Z:\Tesco\K2\K2Server\obj\Debug\K2Server.pdb
+Z:\Tesco\K2\K2Server\obj\Debug\K2Server.csprojResolveAssemblyReference.cache

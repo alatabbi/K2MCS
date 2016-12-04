@@ -1,0 +1,6 @@
+Z:\Tesco\K2\K2ClientApp\bin\Debug\K2ClientApp.exe.config
+Z:\Tesco\K2\K2ClientApp\bin\Debug\K2ClientApp.exe
+Z:\Tesco\K2\K2ClientApp\bin\Debug\K2ClientApp.pdb
+Z:\Tesco\K2\K2ClientApp\obj\Debug\K2ClientApp.csprojResolveAssemblyReference.cache
+Z:\Tesco\K2\K2ClientApp\obj\Debug\K2ClientApp.exe
+Z:\Tesco\K2\K2ClientApp\obj\Debug\K2ClientApp.pdb
