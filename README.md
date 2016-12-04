@@ -36,7 +36,9 @@ Note: Both key and value are ASCII strings and cannot contain a new-line (\n) ch
 Finally, K2-Server contains a simple client API to access the server, by adding a reference to the project, the client api can be used as follows:
 
 K2Client k2c = new K2Client("127.0.0.1", "3000");
+
 var r = k2c.PutInCache("someKey", "someValue");
+
 var v = k2c.GetFromCache("someKey");
 
 
