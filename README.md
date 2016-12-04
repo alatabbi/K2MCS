@@ -8,20 +8,27 @@ K2-Server interacts with its clients via a TCP connection using the supplied por
 
 -K2 Client App: a simple console application that interacts with K2-Server via a TCP connection, once the client is connected to a K2-server, the user can start sending requests to the server as follows: 
 
-## Operations
+Operations
 
-### PUT 
+PUT 
 To put a key-value pair:
+
 PUT\n
-<key>\n
-<value>\n
+
+key\n
+
+value\n
+
 The server returns: OK\n - when put succeeds or FAIL\n if the put fails.
 
-### GET
+GET
 To get a value  of a given key
+
 GET\n
-<key>\n
- The server returns <value>\n (<value> would be an empty string if there is no entry for that key)
+
+key\n
+
+The server returns value\n ("value" would be an empty string if there is no entry for that key)
 
 Note: Both key and value are ASCII strings and cannot contain a new-line (\n) character.
 
