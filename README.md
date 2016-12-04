@@ -43,5 +43,5 @@ var v = k2c.GetFromCache("someKey");
 
 
 - To implement the fixed-size memory feature and auxiliary queue object is used to evict the oldest item from the memory  as further entries are added, in the case of the maximum limit is reached.
-- The TCP connection for K2-Server and client is implemented using TcpListener and TcpClient resp.
+- The TCP connection for K2 server and client is implemented using TcpListener and TcpClient resp.
 
