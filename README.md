@@ -4,6 +4,7 @@ The aim of this project is to construct a very basic single node key-value memor
 The solution contains the following: 
 
 -K2 Server: a memory  cache server that maintain a dictionary of key/value pairs, K2 allows N key-value pairs to be added to the dictionary at any given time, as further entries are added, the oldest entries should be evicted first, the oldest entries should be evicted first, the number N is configurable and can be supplied by the user when starting the server as a command line argument, for example "K2Server.exe 1000" would start an instance of the K2 Server with memory size of 1000 items.
+
 K2-Server interacts with its clients via a TCP connection using the supplied port and ip-address. 
 
 -K2 Client App: a simple console application that interacts with K2-Server via a TCP connection, once the client is connected to a K2-server, the user can start sending requests to the server as follows: 
